@@ -1,4 +1,4 @@
-# DataProfessionalSurvey
+# Data Professional Survey
 
 
 Analysis of Data Professional Survey from 630 respondents in Power BI
@@ -21,4 +21,4 @@ We will be using Power BI to clean, transform, and visualize the data
 
 ## Dataset
 
-[The dataset is available here](https://www.mavenanalytics.io/data-playground)
+[The dataset is available here](https://github.com/Elo007/DataProfessionalSurvey/blob/main/Data%20professionals%20survey.xlsx)
