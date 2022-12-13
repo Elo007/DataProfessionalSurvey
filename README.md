@@ -14,6 +14,8 @@ Analysis of Data Professional Survey from 630 respondents in Power BI
 * Are data professional happy with their salary?
 * Are data practitioners happy with work and life balance?
 
+![DataProfessionalSurvey](https://user-images.githubusercontent.com/108984339/207317421-70c5f00c-edd5-48cf-ae7e-5bb3fd6ac200.JPG)
+
 ## Tools
 
 We will be using Power BI to clean, transform, and visualize the data
